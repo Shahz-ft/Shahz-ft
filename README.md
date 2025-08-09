@@ -32,10 +32,13 @@ Transformer-based classifier (BERT/RoBERTa/XLNet) trained on the Deceptive Opini
 ---
 
 ## 🛠️ Skills
-**Languages:** Python · JavaScript · HTML · CSS  
-**Tools & Tech:** IoT (ESP32) · ML / Transformers · Git · VS Code · Prettier · Figma · Canva  
-**Web Development:** HTML · CSS · JavaScript (Front-End) · Responsive Design 
-**Soft Skills:** Problem Solving · Teamwork · Creative Design 
+**- Languages:** Python · JavaScript · HTML · CSS  
+
+**- Tools & Tech:** IoT (ESP32) · ML / Transformers · Git · VS Code · Prettier · Figma · Canva 
+
+**- Web Development:** HTML · CSS · JavaScript (Front-End) · Responsive Design 
+
+**- Soft Skills:** Problem Solving · Teamwork · Creative Design 
 ---
 
 ## 📫 Contact

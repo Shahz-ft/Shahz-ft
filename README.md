@@ -2,8 +2,8 @@
 **Electronics & Computer Engineering student**  • Front-End Developer • Passionate about Tech • Building AI, IoT & embedded systems with real-world impact.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shahana-beevi12/) 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/Shahz-ft)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/Shahz-ft)
+[![GitHub followers](https://img.shields.io/github/followers/Shahz-ft?label=Follow&style=social)](https://github.com/Shahz-ft)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahz-ft&layout=compact)](https://github.com/Shahz-ft)
 
 ---
 
@@ -39,6 +39,7 @@ Transformer-based classifier (BERT/RoBERTa/XLNet) trained on the Deceptive Opini
 **- Web Development:** HTML · CSS · JavaScript (Front-End) · Responsive Design 
 
 **- Soft Skills:** Problem Solving · Teamwork · Creative Design 
+
 ---
 
 ## 📫 Contact
